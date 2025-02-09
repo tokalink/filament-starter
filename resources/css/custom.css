@@ -1,0 +1,11 @@
+body {
+    background-color: #0574e2;
+}
+
+.fi-sidebar {
+    @apply bg-gray-50 dark:bg-gray-950;
+}
+
+.fi-header {
+    @apply text-lg text-gray-800;
+}
