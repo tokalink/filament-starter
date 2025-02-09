@@ -1,5 +1,5 @@
 .fi-sidebar-nav {
-    background-color: rgb(18, 102, 228);
+    /* gradian color blue - gray */
+    background: linear-gradient(180deg, #1e5799 0%, #7db9e8 100%);
     border-radius: 0.5rem;
-    padding: 1rem;    
 }
