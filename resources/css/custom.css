@@ -1,11 +1,17 @@
-body {
-    background-color: #0574e2;
+/* php artisan filament:assets  */
+/* .fi-topbar > nav {
+    background-color: #055980;
+    background-color: linear-gradient(180deg, #1e5799 0%, #7db9e8 100%);
 }
 
-.fi-sidebar {
-    @apply bg-gray-50 dark:bg-gray-950;
-}
+header.fi-sidebar-header {
+    background-color: #e45c5c;
+} */
 
-.fi-header {
-    @apply text-lg text-gray-800;
+.fi-sidebar-nav {
+    /* gradie blue - gray */
+    background-color: #f7f7f7;
+    background: linear-gradient(180deg, #1e5799 0%, #7db9e8 100%);
+    border-radius: 0.5rem;
+    padding: 1rem;
 }
