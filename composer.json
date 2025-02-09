@@ -2,7 +2,7 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "tokalink/filament-starter",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Dibuat untuk keperluan pribadi",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
